@@ -1,7 +1,7 @@
 # Evangelos Gkoumas
 ### Data / Business Analyst
 
-📍 Patras, Greece &nbsp;·&nbsp; 📱 +30 6987530963 &nbsp;·&nbsp; ✉️ vaggkoumas03@gmail.com &nbsp;·&nbsp; 🔗 [github.com/EvangelosGkoumas](https://github.com/EvangelosGkoumas)
+📍 Chalkida, Greece &nbsp;·&nbsp; 📱 +30 6987530963 &nbsp;·&nbsp; ✉️ vaggkoumas03@gmail.com &nbsp;·&nbsp; 🔗 [github.com/EvangelosGkoumas](https://github.com/EvangelosGkoumas)
 
 > Business Analytics professional with ~1 year of experience turning raw data into business decisions at a fast-growing US construction-technology company. Skilled in SQL & BigQuery data pipelines, Looker Studio dashboards, and AI-driven workflow automation, with a track record of independently owning recurring analytics deliverables and presenting insights to leadership. Eager to keep combining data, code, and business understanding — with a long-term passion for sports analytics.
 
@@ -11,6 +11,8 @@
 ## Work History
 ### Data / Business Analyst — Ergeon *(Remote, US construction-technology company)*
 **July 2025 – July 2026**
+
+*Progression: Data Bootcamp (Jul–Aug 2025) → Junior Business Analyst L1, Intern (Sep–Dec 2025) → Junior Business Analyst L1 (Dec 2025–Apr 2026) → Junior Business Analyst L2 (Apr–Jul 2026)*
 
 - Built and maintained SQL / BigQuery data pipelines powering company-wide KPI reporting — writing and debugging scheduled queries from scratch.
 - Designed interactive Looker Studio dashboards tracking sales conversion, turnaround time, revenue and operational health, improving data accuracy and the speed of decision-making.
