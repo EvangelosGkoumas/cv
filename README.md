@@ -31,6 +31,17 @@
 - Monitored the production line for quality control, ensuring high product standards.
 - Conducted routine maintenance on equipment to prevent downtime and improve output.
 
+## Projects
+*Personal sports-analytics projects — full code, data and write-ups on GitHub.*
+
+**Cristiano Ronaldo — UEFA Champions League (2015–2018)** — [github.com/EvangelosGkoumas/ronaldo-ucl-2016-2018](https://github.com/EvangelosGkoumas/ronaldo-ucl-2016-2018)
+
+Built a Python pipeline merging two public data sources (openfootball + Wikipedia) into a match-by-match dataset, validated against official goal totals; analysed it with DuckDB SQL and visualised it with matplotlib and mplsoccer (shot maps and heatmaps from StatsBomb event data). Documented with a README, a Jupyter notebook and a PDF report.
+
+**Russell Westbrook — 2016-17 NBA season** — [github.com/EvangelosGkoumas/westbrook-mvp-2016-17](https://github.com/EvangelosGkoumas/westbrook-mvp-2016-17)
+
+Parsed game-by-game data from Basketball-Reference into a clean dataset, validated against the record books, aggregated it with DuckDB SQL, and built matplotlib charts. Published as a reproducible repository with a Jupyter notebook.
+
 ## Technical Skills
 - **SQL & BigQuery** — writing and debugging queries from scratch, scheduled-query pipelines, cohort & funnel metrics
 - **Python** — pandas, matplotlib, and API automation scripts
@@ -38,8 +49,8 @@
 - **Google Workspace automation** — Sheets (incl. Apps Script), Docs, Slides & Calendar APIs
 - **AI / Workflow automation** — Claude Code skill authoring, prompt engineering, agent workflows
 - **APIs & integrations** — Slack, Jira, REST / JSON
-- **Databases** — BigQuery (OLAP) and PostgreSQL (OLTP)
-- **Tools** — Git / GitHub, Visual Studio Code, JSON configuration
+- **Databases** — BigQuery (OLAP) and PostgreSQL (OLTP); DuckDB
+- **Tools** — Git / GitHub, Visual Studio Code, Jupyter, JSON configuration
 - **Also** — proficient with MS Office Suite; introductory R / R Studio; basic HTML
 
 ## Business & Analytics Skills
