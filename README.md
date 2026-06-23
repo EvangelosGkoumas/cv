@@ -31,17 +31,6 @@
 - Monitored the production line for quality control, ensuring high product standards.
 - Conducted routine maintenance on equipment to prevent downtime and improve output.
 
-## Projects
-*Personal sports-analytics projects — full code, data and write-ups on GitHub.*
-
-**Cristiano Ronaldo — UEFA Champions League (2015–2018)** — [github.com/EvangelosGkoumas/ronaldo-ucl-2016-2018](https://github.com/EvangelosGkoumas/ronaldo-ucl-2016-2018)
-
-Built a Python pipeline merging two public data sources (openfootball + Wikipedia) into a match-by-match dataset, validated against official goal totals; analysed it with DuckDB SQL and visualised it with matplotlib and mplsoccer (shot maps and heatmaps from StatsBomb event data). Documented with a README, a Jupyter notebook and a PDF report.
-
-**Russell Westbrook — 2016-17 NBA season** — [github.com/EvangelosGkoumas/westbrook-mvp-2016-17](https://github.com/EvangelosGkoumas/westbrook-mvp-2016-17)
-
-Parsed game-by-game data from Basketball-Reference into a clean dataset, validated against the record books, aggregated it with DuckDB SQL, and built matplotlib charts. Published as a reproducible repository with a Jupyter notebook.
-
 ## Technical Skills
 - **SQL & BigQuery** — writing and debugging queries from scratch, scheduled-query pipelines, cohort & funnel metrics
 - **Python** — pandas, matplotlib, and API automation scripts
@@ -77,6 +66,12 @@ Parsed game-by-game data from Basketball-Reference into a clean dataset, validat
 - Certificate of “Sports Management: Data and Analytics” by Udemy
 - Security Awareness Training Certificate
 - **ERASMUS+ participation:** Innovate for Impact — Building a Sustainable Future through Business and the Sustainable Development Goals (SDGs), GBSB Malta
+
+## Personal Projects
+*Exploring sports analytics through small personal projects (ongoing, self-taught):*
+
+- **Cristiano Ronaldo — Champions League goals (2015–2018)** — Python, SQL, data visualization · [GitHub](https://github.com/EvangelosGkoumas/ronaldo-ucl-2016-2018)
+- **Russell Westbrook — 2016-17 NBA season** — Python, SQL, data visualization · [GitHub](https://github.com/EvangelosGkoumas/westbrook-mvp-2016-17)
 
 ## Activities
 - **Patras Night Half-Marathon** (Oct 2023) — supporting the organization and preparation of the event (Volunteering)
