@@ -72,6 +72,7 @@
 
 - **Cristiano Ronaldo — Champions League goals (2015–2018)** — Python, SQL, data visualization · [GitHub](https://github.com/EvangelosGkoumas/ronaldo-ucl-2016-2018)
 - **Russell Westbrook — 2016-17 NBA season** — Python, SQL, data visualization · [GitHub](https://github.com/EvangelosGkoumas/westbrook-mvp-2016-17)
+- **World Cup 2026 — title forecast** — Python, SQL, Monte-Carlo simulation (Elo model) · [GitHub](https://github.com/EvangelosGkoumas/world-cup-2026-forecast)
 
 ## Activities
 - **Patras Night Half-Marathon** (Oct 2023) — supporting the organization and preparation of the event (Volunteering)
